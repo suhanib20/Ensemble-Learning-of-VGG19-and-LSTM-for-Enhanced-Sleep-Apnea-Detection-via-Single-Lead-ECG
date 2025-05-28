@@ -1,0 +1,2 @@
+# Ensemble-Learning-of-VGG19-and-LSTM-for-Enhanced-Sleep-Apnea-Detection-via-Single-Lead-ECG
+This project detects Obstructive Sleep Apnea using ECG signals from the PhysioNet Apnea-ECG dataset. It includes signal preprocessing, R-peak detection, feature extraction, and classification using a VGG19+LSTM model. The pipeline is optimized with multiprocessing for efficient data handling and model training.
