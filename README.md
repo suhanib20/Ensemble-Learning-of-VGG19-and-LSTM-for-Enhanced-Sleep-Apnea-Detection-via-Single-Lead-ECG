@@ -77,6 +77,10 @@ Run \`model_training_and_evaluation.ipynb\` to train, validate, and evaluate mod
 
 ---
 
+##Citation
+If you are using the above code, then please cite this manuscript:
+Bhatia, S., Garg, D., Singh, H., Bansal, S. (2025). Ensemble Learning of VGG19 and LSTM for Enhanced Sleep Apnea Detection via Single-Lead ECG, The Visual Computer, Springer.
+
 
 
 ## Dataset Link:
